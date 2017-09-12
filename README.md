@@ -4,6 +4,9 @@
 <p>This web application allows you to use MySQL database and manage a small Amazon inventory list through the console</p>
 <p>It also utilizes NPM modules such as: Console.table, Inquirer, MySQL</p>
 
+<h2>Video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDp8DnqqO2U" frameborder="0" allowfullscreen></iframe>
+
 <h2>Bamazon Customer<h2>
 
 <p style="text-align: center">
